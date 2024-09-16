@@ -23,6 +23,4 @@ public class MathCalculator {
         System.out.println("Сумма разности и деления: " + substractionAndDivision(100, 20));
         System.out.println("Сумма всех операций: " + sumAll(20, 4));
     }
-
-
 }
